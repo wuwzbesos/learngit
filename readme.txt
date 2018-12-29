@@ -1,8 +1,8 @@
-1.品种表 （breed）
+﻿1.品种表 （breed）
   |     列名     |  数据类型     |  是否为空  |  注释
     breedid          NUMBER(10)            否       品种id
-    CREATETIME       date              否       创建时间
     name             string            否       品种名称
+    CREATETIME       date              否       创建时间
     
 
 2.商品表结构（commodity）
